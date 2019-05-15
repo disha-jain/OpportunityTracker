@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myPipeline</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_submit">SubmitActivity</string>
+    <string name="title_activity_admin_choice">AdministratorChoiceActivity</string>
+    <string name="title_activity_access">AccessActivity</string>
+    <string name="title_activity_data">Data</string>
+    <string name="title_activity_new">New</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_new_om">New OM</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_account">Account</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="title_activity_my_pipeline">myPipeline</string>
+    <array name="acn_array"><item>    </item><item>Yes</item><item>No</item></array>
+    <array name="cap_array"><item>    </item><item>Yes</item><item>No</item></array>
+    <array name="lead_array">
+        <item>    </item>
+        <item>Reilly</item>
+        <item>White</item>
+        <item>Jain</item>
+        <item>Fitch</item>
+        <item>Murphy</item>
+        <item>Webb</item>
+        <item>Other</item>
+    </array>
+    <array name="inSAP_array"><item>    </item><item>Yes</item><item>No</item></array>
+    <array name="stageGate_array">
+        <item>     </item>
+        <item>  1  </item>
+        <item> 2B  </item>
+        <item> 3B  </item>
+        <item>Other</item>
+    </array>
+    <array name="quarter_array">
+        <item>    </item>
+        <item>Q1-2015</item>
+        <item>Q2-2015</item>
+        <item>Q3-2015</item>
+        <item>Q4-2015</item>
+        <item>Other</item>
+    </array>
+</resources>
